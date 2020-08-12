@@ -4,15 +4,15 @@
  
    北京真相网<br/>
 
- <a href="https://is.gd/fMpYXu" rel="nofollow">入口</a>
+ <a id="bjlink" href="https://is.gd/fMpYXu" rel="nofollow">入口</a>
 
  长春真相网<br/>
 
- <a href="https://is.gd/P54cPT" rel="nofollow">入口</a>
+ <a id="cclink" href="https://is.gd/P54cPT" rel="nofollow">入口</a>
  
   大陆真相网<br/>
   
- <a href="https://is.gd/RgWFwD" rel="nofollow">入口</a>
+ <a id="dllink" href="https://is.gd/RgWFwD" rel="nofollow">入口</a>
       
       
 
